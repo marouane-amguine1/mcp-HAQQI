@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(py --version)",
+      "Bash(where python *)",
+      "Bash(/c/Users/marou/AppData/Local/Microsoft/WindowsApps/python *)",
+      "Bash(py *)",
+      "Bash(curl -s -X POST http://localhost:8000/chat -H \"Content-Type: application/json\" -d '{\"message\": \"test\"}')"
+    ]
+  }
+}
