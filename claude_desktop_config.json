@@ -2,11 +2,11 @@
   "mcpServers": {
     "moroccan-legal-assistant": {
       "command": "py",
-      "args": ["C:\\Users\\marou\\Desktop\\moroccan-legal-mcp\\server.py"],
+      "args": ["\\moroccan-legal-mcp\\server.py"],
       "env": {
         "OLLAMA_URL": "http://localhost:11434",
         "OLLAMA_MODEL": "kimi",
-        "CHROMA_PATH": "C:\\Users\\marou\\Desktop\\moroccan-legal-mcp\\data\\chroma"
+        "CHROMA_PATH": "\\moroccan-legal-mcp\\data\\chroma"
       }
     }
   }
